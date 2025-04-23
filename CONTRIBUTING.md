@@ -36,7 +36,7 @@ Provide information about your environment, such as your operating system or app
 If possible, try to isolate the issue to a specific code block or function.
 
 ## Use a Consistent Coding Style
-Where ools are used for styling and linting their configurations are kept in the project's pyproject.toml file.
+Where tools are used for styling and linting their configurations are kept in the project's pyproject.toml file. Ignores may be in inline comments.
 
 ## References
 This document was adapted from this example [https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62)
