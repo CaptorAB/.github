@@ -1,14 +1,6 @@
-# Captor Fund Management AB
-
-*Asset Management at the Forefront*
-
-[🌐 captor.se](https://captor.se/)
-
----
-
 ## About Us
 
-Advanced funds for simpler investments. At Captor, we refuse to let traditional asset management norms limit us. Our funds are designed as essential building blocks in portfolio construction. Aimed at delivering the highest possible returns without compromising transparency, liquidity, or predictability.
+**Advanced funds for simpler investments** - At Captor, we refuse to let traditional asset management norms limit us. Our funds are designed as essential building blocks in portfolio construction. Aimed at delivering the highest possible returns without compromising transparency, liquidity, or predictability.
 
 We are a dynamic team united by a shared purpose: to unlock the potential of traditional asset management and shape the future of funds. With expertise, innovation, and sustainability at our core, we provide funds that serve as critical components in constructing robust portfolios.
 
