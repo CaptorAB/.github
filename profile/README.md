@@ -8,7 +8,7 @@ We are a dynamic team united by a shared purpose: to unlock the potential of tra
 
 ## Tech-Driven Approach
 
-We develop and maintain the majority of our technology stack in-house, empowering our portfolio managers with best-in-class tools and streamlined processes for efficient, cost-effective fund management.
+We develop and maintain the majority of our technology stack in-house, empowering our portfolio managers with best-in-class tools and streamlined processes for efficient investment management.
 
 ---
 
