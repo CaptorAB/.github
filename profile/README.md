@@ -30,7 +30,7 @@ We develop and maintain the majority of our technology stack in-house, empowerin
 - **Andreas Lindh, CTO**  
   Leads development of our proprietary software stack, full-stack development, production environments, automated testing and architecture.
 
-*Meet the rest of the team on our [About Us page](https://captor.se/vilka-vi-ar).*
+*Meet the rest of the team on our [About Us page](https://www.captor.se/om-oss/vilka-vi-ar).*
 
 ---
 
